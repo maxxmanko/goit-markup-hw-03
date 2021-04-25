@@ -1,1 +1,1 @@
-Посилання на завадння: https://maxxmanko.github.io/goit-markup-hw-03/
+Посилання на завдання: https://maxxmanko.github.io/goit-markup-hw-03/
